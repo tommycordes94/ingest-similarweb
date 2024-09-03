@@ -1,0 +1,882 @@
+{
+    "meta": {
+        "request": {
+            "granularity": "Daily",
+            "main_domain_only": false,
+            "segment_name": "main career page Deutsche Telekom AG",
+            "segment": "04075af1-fae9-4f04-9691-e120758ee102",
+            "metrics": [
+                "Visits",
+                "Share",
+                "PagesPerVisit",
+                "PageViews",
+                "BounceRate",
+                "VisitDuration"
+            ],
+            "mtd": false,
+            "show_verified": false,
+            "state": null,
+            "format": "json",
+            "start_date": "2022-01-01",
+            "end_date": "2022-03-31",
+            "country": "de"
+        },
+        "status": "Success",
+        "last_updated": "2022-07-31",
+        "device": "Desktop"
+    },
+    "segments": [
+        {
+            "date": "2022-01-01",
+            "visits": 1094.1249930430688,
+            "bounce_rate": 0.0,
+            "pages_per_visit": 12.0,
+            "visit_duration": 573.9556666666666,
+            "page_views": 13129.499916516826,
+            "share": 0.0018382352941176473,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-02",
+            "visits": 1638.948412930651,
+            "bounce_rate": 0.4,
+            "pages_per_visit": 3.4,
+            "visit_duration": 630.8086000000001,
+            "page_views": 5572.424603964214,
+            "share": 0.002400384061449832,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-03",
+            "confidence": "VeryLow"
+        },
+        {
+            "date": "2022-01-04",
+            "visits": 1460.575395388132,
+            "bounce_rate": 0.2,
+            "pages_per_visit": 3.0,
+            "visit_duration": 122.58399999999999,
+            "page_views": 4381.726186164396,
+            "share": 0.001717032967032967,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-05",
+            "visits": 2049.6109507959345,
+            "bounce_rate": 0.0,
+            "pages_per_visit": 5.285714285714286,
+            "visit_duration": 120.76114285714286,
+            "page_views": 10833.65788277851,
+            "share": 0.002508960573476702,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-06",
+            "visits": 1758.7446611831665,
+            "bounce_rate": 0.33333333333333326,
+            "pages_per_visit": 7.166666666666667,
+            "visit_duration": 214.9905,
+            "page_views": 12604.33673847936,
+            "share": 0.0023328149300155523,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-07",
+            "visits": 1157.6240581183406,
+            "bounce_rate": 0.0,
+            "pages_per_visit": 4.75,
+            "visit_duration": 223.596,
+            "page_views": 5498.714276062118,
+            "share": 0.0015349194167306216,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-08",
+            "visits": 2499.875544582606,
+            "bounce_rate": 0.375,
+            "pages_per_visit": 2.875,
+            "visit_duration": 245.128125,
+            "page_views": 7187.142190674992,
+            "share": 0.0038387715930902106,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-09",
+            "visits": 1268.6065565940914,
+            "bounce_rate": 0.75,
+            "pages_per_visit": 2.5,
+            "visit_duration": 250.84825,
+            "page_views": 3171.5163914852287,
+            "share": 0.001738374619730552,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-10",
+            "visits": 858.6785274411777,
+            "bounce_rate": 0.3333333333333333,
+            "pages_per_visit": 6.333333333333333,
+            "visit_duration": 379.88899999999995,
+            "page_views": 5438.297340460792,
+            "share": 0.0009839291571006887,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-11",
+            "visits": 854.8788142744431,
+            "bounce_rate": 0.3333333333333333,
+            "pages_per_visit": 3.666666666666667,
+            "visit_duration": 75.75833333333333,
+            "page_views": 3134.555652339625,
+            "share": 0.0010319917440660474,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-12",
+            "visits": 3337.150753425662,
+            "bounce_rate": 0.16666666666666666,
+            "pages_per_visit": 6.916666666666666,
+            "visit_duration": 374.7149166666666,
+            "page_views": 23081.95937786083,
+            "share": 0.00411663807890223,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-13",
+            "visits": 2332.760294203251,
+            "bounce_rate": 0.25,
+            "pages_per_visit": 6.25,
+            "visit_duration": 458.0035,
+            "page_views": 14579.751838770318,
+            "share": 0.002808002808002808,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-14",
+            "visits": 1144.8745591040522,
+            "bounce_rate": 0.25,
+            "pages_per_visit": 3.25,
+            "visit_duration": 75.62225,
+            "page_views": 3720.8423170881697,
+            "share": 0.0014919806042521448,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-15",
+            "visits": 2523.4910587693007,
+            "bounce_rate": 0.5,
+            "pages_per_visit": 4.875,
+            "visit_duration": 584.8185,
+            "page_views": 12302.018911500341,
+            "share": 0.0039196472317491425,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-16",
+            "visits": 2470.2408998888814,
+            "bounce_rate": 0.375,
+            "pages_per_visit": 4.875,
+            "visit_duration": 436.7515,
+            "page_views": 12042.424386958297,
+            "share": 0.003686635944700461,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-17",
+            "visits": 2275.8433443298777,
+            "bounce_rate": 0.5,
+            "pages_per_visit": 5.0,
+            "visit_duration": 320.384625,
+            "page_views": 11379.216721649389,
+            "share": 0.002696326255476913,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-18",
+            "visits": 2277.7685514336517,
+            "bounce_rate": 0.375,
+            "pages_per_visit": 6.25,
+            "visit_duration": 360.708625,
+            "page_views": 14236.053446460322,
+            "share": 0.0027768136063866713,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-19",
+            "visits": 1121.0503192946576,
+            "bounce_rate": 0.25,
+            "pages_per_visit": 3.5,
+            "visit_duration": 235.04575,
+            "page_views": 3923.6761175313013,
+            "share": 0.0014275517487508922,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-20",
+            "visits": 1912.3258273665144,
+            "bounce_rate": 0.2857142857142857,
+            "pages_per_visit": 4.285714285714286,
+            "visit_duration": 71.88199999999999,
+            "page_views": 8195.682117285061,
+            "share": 0.002536231884057971,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-21",
+            "visits": 1701.0340659444516,
+            "bounce_rate": 0.16666666666666666,
+            "pages_per_visit": 4.5,
+            "visit_duration": 91.286,
+            "page_views": 7654.6532967500325,
+            "share": 0.0023148148148148147,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-22",
+            "visits": 938.0127605059733,
+            "bounce_rate": 0.0,
+            "pages_per_visit": 4.666666666666667,
+            "visit_duration": 470.221,
+            "page_views": 4377.39288236121,
+            "share": 0.001451378809869376,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-23",
+            "visits": 2214.6337256824695,
+            "bounce_rate": 0.4285714285714285,
+            "pages_per_visit": 8.285714285714286,
+            "visit_duration": 758.2187142857143,
+            "page_views": 18349.822298511892,
+            "share": 0.0033333333333333335,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-24",
+            "visits": 1416.791298458489,
+            "bounce_rate": 0.6,
+            "pages_per_visit": 5.4,
+            "visit_duration": 86.3606,
+            "page_views": 7650.673011675842,
+            "share": 0.001676727028839705,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-25",
+            "visits": 868.3357079177792,
+            "bounce_rate": 0.0,
+            "pages_per_visit": 7.666666666666667,
+            "visit_duration": 1062.6383333333333,
+            "page_views": 6657.240427369641,
+            "share": 0.0010291595197255575,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-26",
+            "visits": 2517.872108805765,
+            "bounce_rate": 0.4444444444444444,
+            "pages_per_visit": 4.333333333333333,
+            "visit_duration": 186.3941111111111,
+            "page_views": 10910.779138158314,
+            "share": 0.003099173553719008,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-27",
+            "visits": 3048.911397670755,
+            "bounce_rate": 0.36363636363636365,
+            "pages_per_visit": 3.545454545454546,
+            "visit_duration": 77.12045454545455,
+            "page_views": 10809.77677355995,
+            "share": 0.003896563939071909,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-28",
+            "visits": 848.9402283678397,
+            "bounce_rate": 0.0,
+            "pages_per_visit": 4.666666666666667,
+            "visit_duration": 130.90133333333333,
+            "page_views": 3961.7210657165856,
+            "share": 0.0011857707509881424,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-29",
+            "visits": 897.4454004632214,
+            "bounce_rate": 0.6666666666666666,
+            "pages_per_visit": 1.3333333333333333,
+            "visit_duration": 298.58733333333333,
+            "page_views": 1196.5938672842951,
+            "share": 0.0014191106906338694,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-30",
+            "visits": 3157.0145778444635,
+            "bounce_rate": 0.5,
+            "pages_per_visit": 2.8,
+            "visit_duration": 38.5895,
+            "page_views": 8839.640817964497,
+            "share": 0.004672897196261682,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-01-31",
+            "confidence": "VeryLow"
+        },
+        {
+            "date": "2022-02-01",
+            "visits": 834.4672591961873,
+            "bounce_rate": 0.0,
+            "pages_per_visit": 5.333333333333333,
+            "visit_duration": 268.2743333333333,
+            "page_views": 4450.492049046332,
+            "share": 0.0010273972602739725,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-02",
+            "visits": 2855.2056743248745,
+            "bounce_rate": 0.5,
+            "pages_per_visit": 4.2,
+            "visit_duration": 159.1471,
+            "page_views": 11991.863832164474,
+            "share": 0.0033613445378151267,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-03",
+            "visits": 3169.0524976292268,
+            "bounce_rate": 0.5454545454545454,
+            "pages_per_visit": 2.4545454545454546,
+            "visit_duration": 183.97018181818183,
+            "page_views": 7778.5834032717385,
+            "share": 0.0037722908093278463,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-04",
+            "visits": 1743.5255973476421,
+            "bounce_rate": 0.33333333333333326,
+            "pages_per_visit": 3.5,
+            "visit_duration": 145.81833333333336,
+            "page_views": 6102.339590716748,
+            "share": 0.002369668246445498,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-05",
+            "confidence": "VeryLow"
+        },
+        {
+            "date": "2022-02-06",
+            "visits": 1849.2321796436293,
+            "bounce_rate": 0.8333333333333334,
+            "pages_per_visit": 1.1666666666666667,
+            "visit_duration": 5.225666666666666,
+            "page_views": 2157.4375429175675,
+            "share": 0.0027675276752767526,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-07",
+            "visits": 3752.065637379636,
+            "bounce_rate": 0.38461538461538464,
+            "pages_per_visit": 4.6923076923076925,
+            "visit_duration": 446.7886153846154,
+            "page_views": 17605.84645231983,
+            "share": 0.004524886877828055,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-08",
+            "visits": 1739.768659024058,
+            "bounce_rate": 0.6666666666666666,
+            "pages_per_visit": 5.0,
+            "visit_duration": 123.80916666666667,
+            "page_views": 8698.84329512029,
+            "share": 0.0021201413427561835,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-09",
+            "visits": 2926.2812822776664,
+            "bounce_rate": 0.4,
+            "pages_per_visit": 2.7,
+            "visit_duration": 49.7098,
+            "page_views": 7900.9594621497,
+            "share": 0.003616636528028933,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-10",
+            "visits": 1436.3718829141185,
+            "bounce_rate": 0.4,
+            "pages_per_visit": 3.8000000000000003,
+            "visit_duration": 100.0192,
+            "page_views": 5458.21315507365,
+            "share": 0.0017889087656529515,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-11",
+            "visits": 2341.330257802978,
+            "bounce_rate": 0.25,
+            "pages_per_visit": 10.375,
+            "visit_duration": 191.657125,
+            "page_views": 24291.301424705896,
+            "share": 0.003054600992745323,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-12",
+            "visits": 983.6840114859214,
+            "bounce_rate": 0.3333333333333333,
+            "pages_per_visit": 6.333333333333333,
+            "visit_duration": 512.5703333333333,
+            "page_views": 6229.998739410835,
+            "share": 0.0015608740894901144,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-13",
+            "visits": 1361.8560535436604,
+            "bounce_rate": 0.5,
+            "pages_per_visit": 2.25,
+            "visit_duration": 96.2455,
+            "page_views": 3064.176120473236,
+            "share": 0.0019851116625310174,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-14",
+            "visits": 1518.4320059551562,
+            "bounce_rate": 0.4,
+            "pages_per_visit": 3.3999999999999995,
+            "visit_duration": 285.1402,
+            "page_views": 5162.668820247531,
+            "share": 0.0017992083483267362,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-15",
+            "visits": 1174.3055037343672,
+            "bounce_rate": 0.25,
+            "pages_per_visit": 3.5,
+            "visit_duration": 109.15225,
+            "page_views": 4110.069263070285,
+            "share": 0.001439884809215263,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-16",
+            "visits": 1160.929423421329,
+            "bounce_rate": 0.0,
+            "pages_per_visit": 7.0,
+            "visit_duration": 212.49675,
+            "page_views": 8126.505963949303,
+            "share": 0.0014414414414414412,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-17",
+            "visits": 1143.7916976982042,
+            "bounce_rate": 0.25,
+            "pages_per_visit": 5.75,
+            "visit_duration": 159.15325,
+            "page_views": 6576.802261764674,
+            "share": 0.0014280614066404856,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-18",
+            "visits": 1163.004542728375,
+            "bounce_rate": 0.25,
+            "pages_per_visit": 5.0,
+            "visit_duration": 671.767,
+            "page_views": 5815.022713641875,
+            "share": 0.0015847860538827257,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-19",
+            "visits": 985.090722083144,
+            "bounce_rate": 0.3333333333333333,
+            "pages_per_visit": 5.333333333333333,
+            "visit_duration": 89.92,
+            "page_views": 5253.817184443435,
+            "share": 0.0015698587127158557,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-20",
+            "visits": 2178.753284749889,
+            "bounce_rate": 0.2857142857142857,
+            "pages_per_visit": 3.0,
+            "visit_duration": 190.20742857142858,
+            "page_views": 6536.259854249667,
+            "share": 0.003264925373134328,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-21",
+            "visits": 2948.2947395000724,
+            "bounce_rate": 0.4,
+            "pages_per_visit": 4.8,
+            "visit_duration": 402.962,
+            "page_views": 14151.814749600348,
+            "share": 0.0034106412005457023,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-22",
+            "visits": 2384.626892480059,
+            "bounce_rate": 0.0,
+            "pages_per_visit": 3.8750000000000004,
+            "visit_duration": 557.47275,
+            "page_views": 9240.429208360229,
+            "share": 0.0028060329708874078,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-23",
+            "visits": 1800.9826934958298,
+            "bounce_rate": 0.5,
+            "pages_per_visit": 3.1666666666666665,
+            "visit_duration": 289.818,
+            "page_views": 5703.111862736794,
+            "share": 0.002254791431792559,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-24",
+            "visits": 1493.1556348056536,
+            "bounce_rate": 0.6,
+            "pages_per_visit": 2.6,
+            "visit_duration": 20.0364,
+            "page_views": 3882.2046504946993,
+            "share": 0.001901863826550019,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-25",
+            "visits": 1753.426083060425,
+            "bounce_rate": 0.6666666666666666,
+            "pages_per_visit": 1.833333333333333,
+            "visit_duration": 13.062833333333332,
+            "page_views": 3214.614485610779,
+            "share": 0.002376237623762376,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-26",
+            "visits": 3114.233185537283,
+            "bounce_rate": 0.6666666666666666,
+            "pages_per_visit": 5.111111111111111,
+            "visit_duration": 204.86655555555555,
+            "page_views": 15917.191837190558,
+            "share": 0.004915346805024577,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-27",
+            "visits": 1717.762920646201,
+            "bounce_rate": 0.4,
+            "pages_per_visit": 3.2,
+            "visit_duration": 181.46179999999998,
+            "page_views": 5496.841346067844,
+            "share": 0.00254323499491353,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-02-28",
+            "visits": 1808.728131197561,
+            "bounce_rate": 0.16666666666666666,
+            "pages_per_visit": 3.5,
+            "visit_duration": 99.28766666666667,
+            "page_views": 6330.548459191464,
+            "share": 0.0022172949002217295,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-01",
+            "visits": 1772.4318235931903,
+            "bounce_rate": 0.0,
+            "pages_per_visit": 4.333333333333333,
+            "visit_duration": 91.699,
+            "page_views": 7680.537902237157,
+            "share": 0.0022189349112426036,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-02",
+            "visits": 1501.2694986821678,
+            "bounce_rate": 0.2,
+            "pages_per_visit": 5.0,
+            "visit_duration": 284.37260000000003,
+            "page_views": 7506.347493410839,
+            "share": 0.0019083969465648854,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-03",
+            "visits": 1228.738453209174,
+            "bounce_rate": 0.5,
+            "pages_per_visit": 4.25,
+            "visit_duration": 78.431,
+            "page_views": 5222.138426138989,
+            "share": 0.0015255530129672007,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-04",
+            "visits": 1533.1434334286705,
+            "bounce_rate": 0.8,
+            "pages_per_visit": 1.2,
+            "visit_duration": 25.79,
+            "page_views": 1839.7721201144045,
+            "share": 0.002086811352253756,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-05",
+            "confidence": "VeryLow"
+        },
+        {
+            "date": "2022-03-06",
+            "visits": 1010.1670454576818,
+            "bounce_rate": 0.3333333333333333,
+            "pages_per_visit": 5.666666666666667,
+            "visit_duration": 203.74133333333336,
+            "page_views": 5724.279924260197,
+            "share": 0.0014792899408284023,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-07",
+            "visits": 914.2982440176252,
+            "bounce_rate": 0.6666666666666665,
+            "pages_per_visit": 3.3333333333333335,
+            "visit_duration": 32.117333333333335,
+            "page_views": 3047.660813392084,
+            "share": 0.0011009174311926607,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-08",
+            "confidence": "VeryLow"
+        },
+        {
+            "date": "2022-03-09",
+            "visits": 3608.242243493514,
+            "bounce_rate": 0.25,
+            "pages_per_visit": 4.666666666666667,
+            "visit_duration": 281.01875,
+            "page_views": 16838.46380296973,
+            "share": 0.004626060138781804,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-10",
+            "visits": 3305.8652038592923,
+            "bounce_rate": 0.5454545454545454,
+            "pages_per_visit": 4.181818181818182,
+            "visit_duration": 168.071,
+            "page_views": 13824.527216138858,
+            "share": 0.004198473282442748,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-11",
+            "visits": 922.2393950923915,
+            "bounce_rate": 0.3333333333333333,
+            "pages_per_visit": 3.0,
+            "visit_duration": 24.081999999999997,
+            "page_views": 2766.7181852771746,
+            "share": 0.0012636899747262005,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-12",
+            "visits": 2029.1578937289012,
+            "bounce_rate": 0.16666666666666666,
+            "pages_per_visit": 8.666666666666666,
+            "visit_duration": 317.6755,
+            "page_views": 17586.03507898381,
+            "share": 0.0033333333333333335,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-13",
+            "confidence": "VeryLow"
+        },
+        {
+            "date": "2022-03-14",
+            "visits": 1876.2025539399378,
+            "bounce_rate": 0.33333333333333326,
+            "pages_per_visit": 3.8333333333333335,
+            "visit_duration": 143.66483333333335,
+            "page_views": 7192.109790103095,
+            "share": 0.0021337126600284497,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-15",
+            "visits": 1224.8376230989577,
+            "bounce_rate": 0.25,
+            "pages_per_visit": 8.5,
+            "visit_duration": 128.63825,
+            "page_views": 10411.11979634114,
+            "share": 0.0014477017734346724,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-16",
+            "visits": 1513.178334964715,
+            "bounce_rate": 0.4,
+            "pages_per_visit": 4.4,
+            "visit_duration": 88.47279999999999,
+            "page_views": 6657.984673844747,
+            "share": 0.001889644746787604,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-17",
+            "visits": 1198.8863374200394,
+            "bounce_rate": 0.0,
+            "pages_per_visit": 7.0,
+            "visit_duration": 419.23225,
+            "page_views": 8392.204361940276,
+            "share": 0.0014919806042521446,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-18",
+            "confidence": "VeryLow"
+        },
+        {
+            "date": "2022-03-19",
+            "confidence": "VeryLow"
+        },
+        {
+            "date": "2022-03-20",
+            "visits": 1366.2781188612921,
+            "bounce_rate": 0.25,
+            "pages_per_visit": 5.0,
+            "visit_duration": 258.8075,
+            "page_views": 6831.39059430646,
+            "share": 0.002002002002002002,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-21",
+            "visits": 4274.194405877448,
+            "bounce_rate": 0.7142857142857143,
+            "pages_per_visit": 3.142857142857143,
+            "visit_duration": 73.15714285714286,
+            "page_views": 13433.182418471979,
+            "share": 0.005179430262671106,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-22",
+            "visits": 3460.040162749323,
+            "bounce_rate": 0.5454545454545454,
+            "pages_per_visit": 5.7272727272727275,
+            "visit_duration": 218.28490909090908,
+            "page_views": 19816.593659382488,
+            "share": 0.004332414336352895,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-23",
+            "visits": 933.8245431564408,
+            "bounce_rate": 0.3333333333333333,
+            "pages_per_visit": 1.6666666666666667,
+            "visit_duration": 5.886333333333333,
+            "page_views": 1556.374238594068,
+            "share": 0.0012082158679017317,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-24",
+            "visits": 3119.352175293933,
+            "bounce_rate": 0.4,
+            "pages_per_visit": 3.2,
+            "visit_duration": 164.56969999999998,
+            "page_views": 9981.926960940587,
+            "share": 0.004060089321965083,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-25",
+            "visits": 2583.1375376849614,
+            "bounce_rate": 0.625,
+            "pages_per_visit": 2.25,
+            "visit_duration": 229.741375,
+            "page_views": 5812.059459791163,
+            "share": 0.00360198108959928,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-26",
+            "visits": 1087.347659399582,
+            "bounce_rate": 0.6666666666666666,
+            "pages_per_visit": 2.6666666666666665,
+            "visit_duration": 32.75333333333334,
+            "page_views": 2899.5937583988853,
+            "share": 0.0017513134851138352,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-27",
+            "visits": 1742.0927960660238,
+            "bounce_rate": 0.2,
+            "pages_per_visit": 5.4,
+            "visit_duration": 107.68620000000001,
+            "page_views": 9407.301098756529,
+            "share": 0.002793296089385475,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-28",
+            "visits": 1220.755145742015,
+            "bounce_rate": 0.25,
+            "pages_per_visit": 3.4999999999999996,
+            "visit_duration": 68.7505,
+            "page_views": 4272.643010097052,
+            "share": 0.0015186028853454822,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-29",
+            "visits": 1231.2446514369133,
+            "bounce_rate": 0.0,
+            "pages_per_visit": 7.499999999999999,
+            "visit_duration": 1024.35875,
+            "page_views": 9234.334885776849,
+            "share": 0.0014958863126402393,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-30",
+            "visits": 2376.269539231969,
+            "bounce_rate": 0.125,
+            "pages_per_visit": 6.875,
+            "visit_duration": 224.621875,
+            "page_views": 16336.853082219786,
+            "share": 0.0029553010712966383,
+            "confidence": "Low"
+        },
+        {
+            "date": "2022-03-31",
+            "visits": 2900.880597481415,
+            "bounce_rate": 0.4,
+            "pages_per_visit": 4.6,
+            "visit_duration": 160.9758,
+            "page_views": 13344.050748414507,
+            "share": 0.0035676061362825543,
+            "confidence": "Low"
+        }
+    ]
+}

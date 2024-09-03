@@ -1,0 +1,925 @@
+{
+    "response": {
+        "traffic_and_engagement": {
+            "countries": {
+                "de": {
+                    "start_date": "2019-07",
+                    "end_date": "2022-07",
+                    "fresh_data": "2022-08-20"
+                }
+            }
+        },
+        "segments": [
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "04075af1-fae9-4f04-9691-e120758ee102",
+                "segment_name": "main career page Deutsche Telekom AG",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "telekom.com",
+                "last_updated_time": "2022-08-08",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "telekom.com/de/karriere"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "12000ffa-d849-4ffc-b159-a212feaf15a5",
+                "segment_name": "main career page Dekra Automobil GmbH",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "dekra.de",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "dekra.de/de/karriere"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "1438fbe9-cf85-44a2-afcf-8aedc7fbcbde",
+                "segment_name": "Stihl Main Career Page",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-18",
+                "domain": "corporate.stihl.de",
+                "last_updated_time": "2022-08-18",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "corporate.stihl.de/de/karriere/stellenangebote"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "1e26aab4-475d-4d35-a0cf-2efff0b24ec0",
+                "segment_name": "Post Bank Student Job Page",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-23",
+                "domain": "careers.db.com",
+                "last_updated_time": "2022-08-23",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "careers.db.com/students-graduates/Search-Programmes/#/graduate/results/"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "2a6de22d-22cc-4774-9115-bf2123104132",
+                "segment_name": "main career page Accenture",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "accenture.com",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "accenture.com/de-de/careers"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "2f9f621a-9b7b-48c0-9ec9-d6c8d1d77d41",
+                "segment_name": "main career page Fresenius SE",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "fresenius.de",
+                "last_updated_time": "2022-08-18",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "karriere.fresenius.de/",
+                            "karriere.fresenius.de/job-suche"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "3439c5c1-96b2-4d18-9b5c-a3e0b2819e66",
+                "segment_name": "main career page McDonald's",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "mcdonalds.de",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "karriere.mcdonalds.de"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "38b3c15d-8442-40aa-a1df-993be67e97b5",
+                "segment_name": "main career page Evonik Industries AG",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "evonik.com",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "careers.evonik.com/de"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "3afd7bdf-d25a-4165-ab4e-25bdb1dc84c9",
+                "segment_name": "main career page DSGV",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "sparkasse.de",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "sparkasse.de/karriere"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "3ecabe77-d459-4467-bc5b-7a021a610b34",
+                "segment_name": "main career page Siemens AG",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "new.siemens.com",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "new.siemens.com/de/de/unternehmen/jobs.html"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "4124d4fc-5643-4508-afb6-d1b498c2d8ba",
+                "segment_name": "main career page Bundesministerium der V",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "bundeswehrkarriere.de",
+                "last_updated_time": "2022-08-08",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "bundeswehrkarriere.de/"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "43c34abe-c431-4468-b44a-6ec8e702b0da",
+                "segment_name": "main career page Deloitte",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "www2.deloitte.com",
+                "last_updated_time": "2022-08-08",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "www2.deloitte.com/de/de/careers/life-at-deloitte.html"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "45ab7697-3263-464c-8bf9-16690803bc71",
+                "segment_name": "Post Bank Professional Job Board",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-23",
+                "domain": "db.wd3.myworkdayjobs.com",
+                "last_updated_time": "2022-08-23",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "db.wd3.myworkdayjobs.com/de-DE/PBWebsite"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "6254e52a-80a7-4b7b-bf3f-71320412218d",
+                "segment_name": "main career page ZEISS",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "zeiss.de",
+                "last_updated_time": "2022-08-16",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "zeiss.de/corporate/karriere"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "64562b1e-75ab-4717-9adc-fc655e49f547",
+                "segment_name": "main career page ERGO",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "ergo.com",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "ergo.com/de/karriere"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "6aeb6a02-4477-4d3b-ac23-a667d90ed7f5",
+                "segment_name": "main career page EDEKA",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "verbund.edeka",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "verbund.edeka/karriere"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "6bb4428d-d9cf-4020-a857-ab48b02ef079",
+                "segment_name": "main career page BCG",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "careers.bcg.com",
+                "last_updated_time": "2022-08-18",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "careers.bcg.com/locations/germany-austria"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "6c8c0391-ac85-4564-9141-7185ddda9ddd",
+                "segment_name": "main career page AOK-Bundesverband",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "aok.de",
+                "last_updated_time": "2022-08-08",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "aok.de/ag/uni"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "6cd12260-f13b-4c04-9240-7ba99669fdfb",
+                "segment_name": "main career page Bundesagentur für Arbei",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "recruiting.arbeitsagentur.de",
+                "last_updated_time": "2022-08-18",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "recruiting.arbeitsagentur.de/ba-karriere/stellensuche/index.html#/search"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "6d3ef6d0-0983-427e-b019-17525ade04dd",
+                "segment_name": "main career page Deutsche Postbank AG",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "postbank.de",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "postbank.de/unternehmen/karriere.html"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "72a050ef-a885-42dc-8d1e-2cb63d322057",
+                "segment_name": "Main Job Board Deutche Bahn",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-23",
+                "domain": "karriere.deutschebahn.com",
+                "last_updated_time": "2022-08-23",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "karriere.deutschebahn.com/service/search/karriere-de/2653760"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "73e702af-d5a2-411c-8736-f66001961c29",
+                "segment_name": "main career page BASF",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "basf.com",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "basf.com/global/de/careers"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "8492b0e4-84e4-4bd2-b3c2-76046f7ca08b",
+                "segment_name": "main career page Deutsche Bahn",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "karriere.deutschebahn.com",
+                "last_updated_time": "2022-08-18",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "karriere.deutschebahn.com/karriere-de"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "85befa8b-d48d-49cc-bcf4-4e6452e4c6e7",
+                "segment_name": "main career page ALDI SÜD",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "aldi-sued.de",
+                "last_updated_time": "2022-08-18",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "jobs.aldi-sued.de/karriere"
+                        ],
+                        "exact_url_s": [
+                            "karriere.aldi-sued.de"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "91c44d18-b19a-4987-9d85-c7a7150271ad",
+                "segment_name": "main career page Deutsche Bank AG",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "db.com",
+                "last_updated_time": "2022-08-08",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "db.com/careers"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "9865d3a4-f443-4b9e-b830-822631a62a42",
+                "segment_name": "DM Main Jobs Page",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-18",
+                "domain": "dm-jobs.com",
+                "last_updated_time": "2022-08-18",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "dm-jobs.com/germany"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "9d6f4863-d855-486e-92fd-432cc28dcfbb",
+                "segment_name": "main career page Kaufland",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "karriere.kaufland.de",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "karriere.kaufland.de/"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "9e261706-284d-4863-9f67-80c6bccd80cb",
+                "segment_name": "main career page Porsche",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "porsche.com",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "porsche.com/germany/aboutporsche/jobs"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "a3f90701-2313-4055-afa6-e3f236ecf82f",
+                "segment_name": "main career page Daimler Truck AG",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "daimlertruck.com",
+                "last_updated_time": "2022-08-08",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "daimlertruck.com/karriere"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "acc7bbce-5ae9-4328-b208-c6e246d0ff9f",
+                "segment_name": "main career page Mercedes-Benz AG",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "group.mercedes-benz.com",
+                "last_updated_time": "2022-08-18",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "group.mercedes-benz.com/karriere",
+                            "group.mercedes-benz.com/careers"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "b311a258-e650-46af-98a0-8c361324f926",
+                "segment_name": "main career page SAP",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "sap.com",
+                "last_updated_time": "2022-08-18",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "jobs.sap.com"
+                        ],
+                        "exact_url_s": [
+                            "sap.com/germany/about/careers.html"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "b331e8c2-2cc1-4c01-94df-24cd83ce0ad6",
+                "segment_name": "main career page Vattenfall Europe AG",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "careers.vattenfall.com",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "careers.vattenfall.com/de"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "b37b4c08-b2f2-4afb-9c29-4f0ba5500588",
+                "segment_name": "Siemens Job Portal Germany",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-23",
+                "domain": "jobs.siemens.com",
+                "last_updated_time": "2022-08-23",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "jobs.siemens.com/jobs?page=1&location=Deutschland"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "b66b924e-41a1-4f72-aec4-998cc594453a",
+                "segment_name": "Extenral Job Page cslbehring.de ",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-18",
+                "domain": "recsolu.com",
+                "last_updated_time": "2022-08-18",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [],
+                        "exact_url_s": [
+                            "csl.recsolu.com/job_boards/rAD_La6OkYhQxVTHz3rLgA?locale=de"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "b8cfb8f7-7625-489b-bf08-553dd56a3ccb",
+                "segment_name": "Schaeffler Job Portal",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-23",
+                "domain": "jobs.schaeffler.com",
+                "last_updated_time": "2022-08-23",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "jobs.schaeffler.com/search"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "c818a03d-474f-49b3-8a4c-b05ddaa304fc",
+                "segment_name": "PWC Main Jobs Page",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-18",
+                "domain": "jobs.pwc.de",
+                "last_updated_time": "2022-08-18",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "jobs.pwc.de"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "cafdcbe7-61c2-458e-9102-40e19bdfc51d",
+                "segment_name": "main career page Techniker Krankenkasse",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "tk.de",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "tk.de/karriere"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "d2dc6de5-2d5e-4c64-8bdb-4b945bd11d6c",
+                "segment_name": "main career page BMW AG",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "bmwgroup.jobs",
+                "last_updated_time": "2022-08-18",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "bmwgroup.jobs/de/de.html"
+                        ],
+                        "exact_url_s": [
+                            "bmwgroup.jobs/de/de/jobs.html"
+                        ],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "d6b94a0f-8f4f-4a6a-929c-58b955b02951",
+                "segment_name": "main career page Phoenix Contact",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "phoenixcontact.com",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "phoenixcontact.com/karriere/de-de"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "d9b52626-b23c-466b-8009-e5fd3dd1c911",
+                "segment_name": "main career page Schaeffler Technologies",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "schaeffler.de",
+                "last_updated_time": "2022-08-08",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "schaeffler.de/de/karriere"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            },
+            {
+                "creator_email": "dirk.heinecke@trendence.com",
+                "segment_id": "eda3cfe9-fb08-4457-a184-df1bbcb16a52",
+                "segment_name": "main career page Finanzinformatik GmbH",
+                "segment_type": 1,
+                "creator_user_id": "12046455",
+                "creation_time": "2022-08-08",
+                "domain": "f-i.de",
+                "last_updated_time": "2022-08-17",
+                "share_type": 0,
+                "rules": [
+                    {
+                        "words": [],
+                        "exact": [],
+                        "folders": [
+                            "f-i.de/karriere"
+                        ],
+                        "exact_url_s": [],
+                        "type": 0
+                    }
+                ]
+            }
+        ]
+    }
+}
